@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Zex1710
-- 👀 I’m interested in website development
-- 🌱 I’m currently learning computer science
+- 👋 Hi, I’m Zakwan 
+- 👀 I’m interested in networking field 
+- 🌱 I’m currently learning computer science in networking 
 
 <!---
 Zex1710/Zex1710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
